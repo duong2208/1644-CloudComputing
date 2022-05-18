@@ -1,5 +1,14 @@
 helu cac be
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hi!! Luu Thi Minh
+=======
+Hưng
+>>>>>>> 67a82e543f6586b866152b3a8ae5da52ba78c16e
+=======
+=======
+>>>>>>> 49245143a3939c94761c12beb24b831b5fd38191
 Hưng
 <<<<<<< HEAD
 Phanh
@@ -13,3 +22,11 @@ Minh la Duong nhe
 Hưng
 >>>>>>> 67a82e543f6586b866152b3a8ae5da52ba78c16e
 >>>>>>> 791e41481a946f1c2ff7681d26d6162df178b836
+<<<<<<< HEAD
+alo 1234 hwng nè
+=======
+<<<<<<< HEAD
+>>>>>>> 49245143a3939c94761c12beb24b831b5fd38191
+=======
+>>>>>>> 49245143a3939c94761c12beb24b831b5fd38191
+>>>>>>> 7d2c40cfd736146b05a1c5e5e5ecb341b2d4a919
