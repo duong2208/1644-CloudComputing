@@ -1,2 +1,18 @@
 helu cac be
+<<<<<<< HEAD
+<<<<<<< HEAD
 Hi!! Luu Thi Minh
+=======
+Hưng
+>>>>>>> 67a82e543f6586b866152b3a8ae5da52ba78c16e
+=======
+Hưng
+Hưng
+=======
+<<<<<<< HEAD
+Minh la Duong nhe
+=======
+Hưng
+>>>>>>> 67a82e543f6586b866152b3a8ae5da52ba78c16e
+>>>>>>> 791e41481a946f1c2ff7681d26d6162df178b836
+>>>>>>> 49245143a3939c94761c12beb24b831b5fd38191
