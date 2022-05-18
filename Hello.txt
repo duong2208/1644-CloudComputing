@@ -1,39 +1,11 @@
 helu cac be
 
 Hi!! Luu Thi Minh
-<<<<<<< Updated upstream
-
-=======
 Hưng
->>>>>>> 67a82e543f6586b866152b3a8ae5da52ba78c16e
-=======
-=======
->>>>>>> 49245143a3939c94761c12beb24b831b5fd38191
 Hưng
-<<<<<<< HEAD
->>>>>>> 4fc4f60b7ab1d040c1454326d2bca9293267463b
-=======
->>>>>>> Stashed changes
 Hưng
 Phanh
 Minh la Duong nhe
 Hưng
 alo 1234 hwng nè
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
->>>>>>> 49245143a3939c94761c12beb24b831b5fd38191
-=======
->>>>>>> 49245143a3939c94761c12beb24b831b5fd38191
->>>>>>> 7d2c40cfd736146b05a1c5e5e5ecb341b2d4a919
-<<<<<<< HEAD
-
--------------
 Hi!! Luu Thi Minh
-------------------
-=======
->>>>>>> 4fc4f60b7ab1d040c1454326d2bca9293267463b
->>>>>>> 338b5fac93b8772765579eb07a116ef6036a07a4
-=======
-
->>>>>>> Stashed changes
