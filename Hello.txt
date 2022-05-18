@@ -8,3 +8,21 @@ Minh la Duong nhe
 Hưng
 alo 1234 hwng nè
 Hi!! Luu Thi Minh
+
+-Repository được hiểu là một kho lưu trữ nơi chứa các files của dự án.
+
+-Commit là thao tác có chức năng ghi lại những thay đổi file hay thư mục vào kho lưu trữ, 
+những thay đổi này sẽ được lưu vào thư mục commit trong kho và được sắp xếp theo thứ tự thời gian chỉnh.
+
+-Push là lệnh đưa nội dung mà bạn đã commit từ kho lưu trữ ở local đến kho lưu trữ server.
+
+-Fetch là lệnh giúp bạn di chuyển toàn bộ dữ liệu trên kho lưu trữ server về máy tính để tích hợp dữ liệu 
+vào branch.
+
+-Pull Request là lệnh được dùng để thông báo với mọi người rằng bạn đã đẩy những thay đổi của Branch lên 
+Repository tổng.
+
+-Branch được dùng để phân nhánh và ghi luồng của lịch sử.
+
+-Việc sử dụng merge sẽ tạo ra một commit mới là kết hợp từ 2 commit cuối cùng của 2 nhánh cần gộp vào với 
+nhau Log commit sẽ không bị thay đổi và thứ tự các commit sẽ được sắp xếp theo thời gian tạo commit
