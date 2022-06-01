@@ -1,0 +1,19 @@
+<html>
+  <body>
+  <h1 style = "color:green"> HTML elements </h1>
+  <br>
+   <label for="Gender" class="font-weight-bold"><b> Gender: </b> </label><input type="radio" id="male" name="gender" value="Male"><label for="male">Male</label> &nbsp &nbsp<input type="radio" id="female" name="gender" value="Female"><label for="female">Female
+   
+   <br>
+    <label for="cars"><b> Country: </b></label> 
+    <select name="countrys" id="cars" form="carform">
+    <option value="volvo">VietNam</option>
+    <option value="saab">ThaiLand</option>
+    <option value="opel">Lao</option>
+    <option value="audi">Campuchia</option>
+    </select>
+    <br>
+  <br>
+  <input type = "button" value = "OK"/>
+  </body>
+</html>
